@@ -104,3 +104,7 @@ Credit-Card-Fraud-Detection/
 
 **Sarthak Jain** - [LinkedIn Profile](https://www.linkedin.com/in/sarthak-jain-07812328b/) | [GitHub Profile](github.com/sarthak-144/)
 
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE)
+
