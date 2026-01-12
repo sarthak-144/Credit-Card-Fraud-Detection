@@ -15,9 +15,9 @@ def load_resources():
     X_test, y_test = joblib.load('data_test.joblib')
     
     models = {
-        'Logistic Regression': joblib.load('model_lr.joblib'),
-        'Random Forest': joblib.load('model_rf.joblib'),
-        'XGBoost': joblib.load('model_xgb.joblib')
+        'Logistic Regression': joblib.load('models/model_lr.joblib'),
+        'Random Forest': joblib.load('models/model_rf.joblib'),
+        'XGBoost': joblib.load('models/model_xgb.joblib')
     }
     return X_test, y_test, models
 
